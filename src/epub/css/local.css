@@ -7,6 +7,10 @@ header{
 	text-align: center;
 }
 
+#chapter-1-4 blockquote:nth-of-type(2){
+	text-align: center;
+}
+
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:lyrics"] p{
 	text-align: left;
