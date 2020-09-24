@@ -11,6 +11,11 @@ header{
 	text-align: center;
 }
 
+h4[epub|type~="subtitle"]{
+	font-variant: normal;
+	font-style: italic;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
