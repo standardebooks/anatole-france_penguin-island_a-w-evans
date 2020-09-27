@@ -12,6 +12,10 @@ header{
 	text-align: center;
 }
 
+#book-6 blockquote{
+	font-style: normal;
+}
+
 h4[epub|type~="subtitle"]{
 	font-variant: normal;
 	font-style: italic;
