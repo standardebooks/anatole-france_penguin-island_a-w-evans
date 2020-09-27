@@ -12,7 +12,7 @@ header{
 	text-align: center;
 }
 
-#book-6 blockquote{
+#book-6 blockquote[xml|lang~="grc"]{
 	font-style: normal;
 }
 
