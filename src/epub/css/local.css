@@ -12,9 +12,7 @@ header{
 	text-align: center;
 }
 
-#book-6 blockquote[xml|lang~="grc"],
-#chapter-7-6 span[xml|lang~="grc"]
-{
+#chapter-7-6 span[xml|lang~="grc"]{
 	font-style: normal;
 }
 
