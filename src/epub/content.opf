@@ -52,7 +52,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1930</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.167011/</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.167011</dc:source>
 		<meta property="se:production-notes">The preface was not included in Project Gutenberg and was transcripted separately.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -79,7 +79,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia/</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
