@@ -75,4 +75,3 @@ body [xml|lang]{
 [epub|type~="z3998:lyrics"] p > span + br{
 	display: none;
 }
-
