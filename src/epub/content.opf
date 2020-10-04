@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anatole-france/penguin-island/a-w-evans</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-10-04T20:22:36Z</dc:date>
+		<meta property="dcterms:modified">2020-10-04T20:22:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,18 +44,18 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">A myopic saint’s mistaken baptism of penguins ushers in a centuries-spanning satire of French history.</dc:description>
+		<dc:description id="description">A myopic saint mistakenly baptisms some penguins, ushering in a centuries-spanning satire of French history.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Penguin Island&lt;/i&gt;, published by the French author &lt;a href="https://standardebooks.org/ebooks/anatole-france"&gt;Anatole France&lt;/a&gt; in 1908, is a comic novel that satirizes the history of France from its prehistory to the author’s vision of a distant future.&lt;/p&gt;
-			&lt;p&gt;After setting out on a storm-tossed voyage of evangelization, the myopic &lt;abbr&gt;St.&lt;/abbr&gt; Maël finds himself on an island populated by penguins. Mistaking them to be humans, Maël baptizes them—touching off a disputation in Heaven and ushering the Penguin nation into history.&lt;/p&gt;
-			&lt;p&gt;This Standard Ebooks production is based on the 1909 translation of &lt;i&gt;Penguin Island&lt;/i&gt; by &lt;abbr class="name"&gt;A. W.&lt;/abbr&gt; Evans.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Penguin Island&lt;/i&gt;, published by &lt;a href="https://standardebooks.org/ebooks/anatole-france"&gt;Anatole France&lt;/a&gt; in 1908, is a comic novel that satirizes the history of France, from its prehistory to the author’s vision of a distant future.&lt;/p&gt;
+			&lt;p&gt;After setting out on a storm-tossed voyage of evangelization, the myopic St. Maël finds himself on an island populated by penguins. Mistaking them to be humans, Maël baptizes them—touching off a dispute in Heaven and ushering the Penguin nation into history.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition is based on the 1909 translation A. W. Evans.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1930</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.167011</dc:source>
 		<meta property="se:production-notes">The preface was not included in Project Gutenberg and was transcripted separately.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">84177</meta>
+		<meta property="se:reading-ease.flesch">60.35</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Penguin_Island</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anatole-france_penguin-island_a-w-evans</meta>
 		<dc:creator id="author">Anatole France</dc:creator>
@@ -88,6 +88,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+	</metadata>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
