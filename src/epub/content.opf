@@ -93,7 +93,6 @@
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
-	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

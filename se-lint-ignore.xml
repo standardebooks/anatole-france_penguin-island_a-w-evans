@@ -24,14 +24,4 @@
 			<reason>Titlecase lint is not appropriate for French words in this title.</reason>
 		</ignore>
 	</file>
-	<file path="content.opf">
-		<ignore>
-			<code>m-043</code>
-			<reason>The file book-8-1.xhtml should not appear in the ToC because it is not a structural component of the book.</reason>
-		</ignore>
-		<ignore>
-			<code>m-044</code>
-			<reason>The file book-8-1.xhtml should not appear in the ToC because it is not a structural component of the book.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
