@@ -24,4 +24,34 @@
 			<reason>Titlecase lint is not appropriate for French words in this title.</reason>
 		</ignore>
 	</file>
+	<file path="book-4.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Books 4-8 have the same title, so they are differentiated in the ToC by their subtitle.</reason>
+		</ignore>
+	</file>
+	<file path="book-5.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Books 4-8 have the same title, so they are differentiated in the ToC by their subtitle.</reason>
+		</ignore>
+	</file>
+	<file path="book-6.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Books 4-8 have the same title, so they are differentiated in the ToC by their subtitle.</reason>
+		</ignore>
+	</file>
+	<file path="book-7.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Books 4-8 have the same title, so they are differentiated in the ToC by their subtitle.</reason>
+		</ignore>
+	</file>
+	<file path="book-8.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Books 4-8 have the same title, so they are differentiated in the ToC by their subtitle.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
