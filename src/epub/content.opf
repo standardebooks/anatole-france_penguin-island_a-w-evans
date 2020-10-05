@@ -44,11 +44,10 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">A myopic saint mistakenly baptisms some penguins, ushering in a centuries-spanning satire of French history.</dc:description>
+		<dc:description id="description">A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Penguin Island&lt;/i&gt;, published by &lt;a href="https://standardebooks.org/ebooks/anatole-france"&gt;Anatole France&lt;/a&gt; in 1908, is a comic novel that satirizes the history of France, from its prehistory to the author’s vision of a distant future.&lt;/p&gt;
 			&lt;p&gt;After setting out on a storm-tossed voyage of evangelization, the myopic St. Maël finds himself on an island populated by penguins. Mistaking them to be humans, Maël baptizes them—touching off a dispute in Heaven and ushering the Penguin nation into history.&lt;/p&gt;
-			&lt;p&gt;This Standard Ebooks edition is based on the 1909 translation A. W. Evans.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1930</dc:source>
