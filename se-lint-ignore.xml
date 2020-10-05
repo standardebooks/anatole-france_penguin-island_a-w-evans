@@ -12,18 +12,6 @@
 			<reason>There is a quote that is deliberately styled without a period.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-5-5.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Titlecase lint is not appropriate for French words in this title.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-6-3.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Titlecase lint is not appropriate for French words in this title.</reason>
-		</ignore>
-	</file>
 	<file path="book-4.xhtml">
 		<ignore>
 			<code>m-045</code>
