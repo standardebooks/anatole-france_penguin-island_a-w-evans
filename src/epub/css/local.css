@@ -50,6 +50,25 @@ body [xml|lang]{
 }
 /* End all epigraphs */
 
+/* Epigraphs in section headers */
+section[epub|type~="division"] > [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: left;
+}
+
+section[epub|type~="division"] > [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	section[epub|type~="division"] > [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
+
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
