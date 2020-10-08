@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1930</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.167011</dc:source>
-		<meta property="se:production-notes">The preface was not included in Project Gutenberg and was transcripted separately.</meta>
+		<meta property="se:production-notes">The preface was not included in Project Gutenberg and was transcripted separately. The ToC is changed from the output of print-toc because those sections all have the same titles; therefore they are differentiated in the ToC by their subtitles.</meta>
 		<meta property="se:word-count">84177</meta>
 		<meta property="se:reading-ease.flesch">60.35</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Penguin_Island</meta>
