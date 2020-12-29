@@ -55,7 +55,7 @@ section[epub|type~="division"] > [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
-	text-align: left;
+	text-align: initial;
 }
 
 section[epub|type~="division"] > [epub|type~="epigraph"] + *{
@@ -73,7 +73,7 @@ section[epub|type~="division"] > [epub|type~="epigraph"] + *{
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:lyrics"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
