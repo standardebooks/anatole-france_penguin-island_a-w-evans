@@ -109,7 +109,7 @@
 		<item href="text/book-5.xhtml" id="book-5.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-6.xhtml" id="book-6.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-7.xhtml" id="book-7.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/book-8-1.xhtml" id="book-8-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-8-halftitlepage.xhtml" id="book-8-halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-8.xhtml" id="book-8.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-1.xhtml" id="chapter-1-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-2.xhtml" id="chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
@@ -249,8 +249,8 @@
 		<itemref idref="chapter-7-8.xhtml"/>
 		<itemref idref="chapter-7-9.xhtml"/>
 		<itemref idref="chapter-7-10.xhtml"/>
+		<itemref idref="book-8-halftitlepage.xhtml"/>
 		<itemref idref="book-8.xhtml"/>
-		<itemref idref="book-8-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
