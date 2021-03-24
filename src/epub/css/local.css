@@ -16,6 +16,10 @@ header{
 	font-style: normal;
 }
 
+#section-8-1{
+	break-before: page;
+}
+
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
