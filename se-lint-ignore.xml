@@ -36,4 +36,10 @@
 			<reason>Books 4-8 have the same title, so they are differentiated in the ToC by their subtitle.</reason>
 		</ignore>
 	</file>
+	<file path="book-8.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is a code.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
