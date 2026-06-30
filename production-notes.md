@@ -1,0 +1,1 @@
+The preface was not included in Project Gutenberg and was transcripted separately. The ToC is changed from the output of print-toc because those sections all have the same titles; therefore they are differentiated in the ToC by their subtitles.
