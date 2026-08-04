@@ -45,7 +45,7 @@
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:abstract>A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.</dc:abstract>
+		<meta property="schema:abstract">A myopic saint mistakenly baptizes some penguins, ushering in a centuries-spanning satire of French history.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Penguin Island&lt;/i&gt;, published by &lt;a href="https://standardebooks.org/ebooks/anatole-france"&gt;Anatole France&lt;/a&gt; in 1908, is a comic novel that satirizes the history of France, from its prehistory to the author’s vision of a distant future.&lt;/p&gt;
 			&lt;p&gt;After setting out on a storm-tossed voyage of evangelization, the myopic St. Maël finds himself on an island populated by penguins. Mistaking them to be humans, Maël baptizes them—touching off a dispute in Heaven and ushering the Penguin nation into history.&lt;/p&gt;
