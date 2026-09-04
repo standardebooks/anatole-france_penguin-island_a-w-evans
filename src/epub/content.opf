@@ -31,9 +31,9 @@
 		<dc:title id="title">Penguin Island</dc:title>
 		<meta property="file-as" refines="#title">Penguin Island</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
-		<dc:subject id="subject-2">Penguins -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Civilization, Western -- Fiction</dc:subject>
-		<dc:subject id="subject-4">France -- Civilization -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Penguins--Fiction</dc:subject>
+		<dc:subject id="subject-3">Civilization, Western--Fiction</dc:subject>
+		<dc:subject id="subject-4">France--Civilization--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85117645</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
